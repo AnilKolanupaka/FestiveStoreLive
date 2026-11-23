@@ -1011,7 +1011,7 @@
         <div class="testimonial-slider">
             <div class="testimonial-card">
                 <div class="rating">★★★★★</div>
-                <p>"I've never had such a smooth shopping experience. The products are top quality and exactly as described. Delivery was super fast too!"</p>
+                <p>"I've never had such a smooth shopping experience. The products are top quality and exactly as described. Delivery was super fast too!. I loved it"</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
